@@ -6,3 +6,7 @@ Given an array A and a sum S, write a function that returns true if there are 2 
 Example A = [2, 5, 10, 77, 3]
 
 if S == 8 then return true (5 + 3). if S = 11 then return false (not possible).
+
+## How to try now
+
+Use [repl.it](https://repl.it/@jotafeldmann/isThereTwoNumbersInsideTheListWhichMatchTheSum)
